@@ -52,7 +52,7 @@
 var MESIBO_ACCESS_TOKEN = "d29eff4c7ffe3d74a3741f73309cf53ddf44b9b991a79ffbba92e884bd705ma1a4cd63274"; 
 
 /* App ID used to create a user token. */
-var MESIBO_APP_ID = "com.mesibo.jsdemo";
+var MESIBO_APP_ID = "site.codera.app";
 
 /* If you are hosting Mesibo backend on your own server, change this accordingly.
  * Refer https://github.com/mesibo/messenger-app-backend
