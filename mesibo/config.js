@@ -49,7 +49,7 @@
  * In that case, there is no need to configure token here
  * 
  */
-var MESIBO_ACCESS_TOKEN = "d29eff4c7ffe3d74a3741f73309cf53ddf44b9b991a79ffbba92e884bd705ma1a4cd63274"; 
+var MESIBO_ACCESS_TOKEN = "ga8pchen7wh4uzwwv46epanfhxq4owiqyrvo9hqnm2sy4bq0fgrut99w9t6yyrfu"; 
 
 /* App ID used to create a user token. */
 var MESIBO_APP_ID = "site.codera.app";
